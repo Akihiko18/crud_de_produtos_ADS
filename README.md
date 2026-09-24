@@ -101,7 +101,7 @@ carrinho.php           - exibição da cesta
 - Seleção de produtos por checkbox com validação (mínimo 1 selecionado), adicionados a uma Cesta
 - Exibição da Cesta com valor total e quantidade de itens, usando as classes `Produto` e `Cesta`
 
-### Added
+### Arquitetura
 - Estrutura inicial do backend em PHP com conexão PDO ao Postgres do Supabase
 - Criação automática das tabelas (usuarios, fornecedores, produtos, cestas, cesta_itens)
 - Autenticação com hash SHA-256 e sessão PHP
